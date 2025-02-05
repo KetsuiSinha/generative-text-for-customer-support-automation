@@ -32,10 +32,5 @@ Use generative AI to create personalized engagement messages based on customer d
 ---
 
 ## Tech Stack
-- **Backend:** Python, Flask/FastAPI (for API services)
+- **Backend: Python
 - **AI Models:** OpenAI GPT-3.5 or equivalent
-- **Frontend:** React.js (for dashboard or user interface)
-- **Database:** PostgreSQL or MongoDB (for storing customer interaction data)
-- **Deployment:** Docker, Kubernetes (for containerization and scaling)
-
----
